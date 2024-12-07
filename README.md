@@ -2,7 +2,7 @@
 - The title is Binary Lesson
 - Ezra S is the Author of this tutorial 
 - I'm going to teach how to get values up to 255 using binary
-- My target audience is younger groups looking to understand Binary basics or older folks trying to get started.
+- My target audience is highschool students looking for a better understanding or older folks trying to get started.
 - Here is the Tutorial https://github.com/Blue20203/Blue20203/blob/35fadb07cd0f5f6b47f909eb2db3f8baea9f4f11/Binary%20lesson 
 
 <!---
