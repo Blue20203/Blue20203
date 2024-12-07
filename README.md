@@ -3,7 +3,7 @@
 - Ezra S is the Author of this tutorial 
 - I'm going to teach how to get values up to 255 using binary
 - My target audience is younger groups looking to understand Binary basics or older folks trying to get started.
-
+- Here is the Tutorial Binary lesson 
 
 <!---
 Blue20203/Blue20203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
