@@ -1,1 +1,14 @@
-Startung
+- To start this Binary lesson I will tell you that we will be working with 8-bit binary numbers
+- 8-bit numbers can display values from 0-255 all using a combination of 0s and 1s!
+- Firstly 00000000 represnts 0, 11111111 represnts 255.
+- What exactly do each of these 1s and 0s mean?
+- Binary is read from right to left typically, with 00000001 representing the decimal number 1
+- With each value you move to the left symbolizing double the number before hand. If 0001 is 1 then 0010 would be 2 and 0100 would be 4
+- Using a combination of this new found knowledge will help you be able to make larger numbers using addition
+-
+
+- This can also be used in reverse, you may be given a decimal number and asked to represent it in binary
+- Think of it as checking off boxes, you check the box for the largest number needed first then slowly go down until you reach the number
+- Here is an example, to represent 101 in binary first you will go to the closest value that doesn't exceed 101, which is 64.
+- So far we have 01000000, next find the next highet value that can be added to 64 that will not exceed 101, which is 32
+- Now we have 01100000, continue this cycle until you represent 101, we are at 96 right now but the next number needed would be 
